@@ -6,6 +6,6 @@
 
 <BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="it.polito.tdp.prova.ProvaController">
    <center>
-      <Button mnemonicParsing="false" text="Premere per favore" BorderPane.alignment="CENTER" />
+      <Button mnemonicParsing="false" text="Premere per fav" BorderPane.alignment="CENTER" />
    </center>
 </BorderPane>
